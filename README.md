@@ -1,3 +1,1 @@
-Hi, Im Nikola Pavlović I'm Software Developer at StuntCoders. My favourite languages are Javascript (Node, Next.js), PHP and Rust among others.
-
-Most of my contributions are open source. I wish to share my knowledge with others, help people get into this industry. My Ph.D. is based on IoT and Blockchain integration with security aspects so I'm always available to discuss and work on crypto stuff.
+I'm a Software Developer based in Serbia who loves playing with new technologies. I'm constantly on the hunt for new frameworks and trying to improve myself. At the beginning of 2022, I've earned a Ph.D. in computer science. My Thesis was My Ph.D. thesis was Increasing privacy and security by integrating a Blockchain Secure Interface into IoT Device Security. Most of my contributions are open source. I wish to share my knowledge with others, help people get into this industry. I'm an advocate for privacy and security.
